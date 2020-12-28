@@ -5,6 +5,7 @@ and this project adheres to [Semantic Versioning](https://semver.org).
 ## [Unreleased]
 ### Changed
 - aggiornata versione unity
+- creato nuova scena
 
 ## [0.1.0] - 2018-12-07
 ### Added
