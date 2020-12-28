@@ -1,12 +1,12 @@
 # Unity Game Project Template
-repository prototipo per progetti Game Unity
+repository prototipo per progetti Game Unity.
 
 ## Project Title
 eventuale sottotitolo / tagline
 
 ## screenshots
 almeno 2, title e gameplay
-(link a /Marketing/Screenshots folder)
+(link a Marketing/Screenshots folder)
 
 ## Description
 in massimo due frasi sintetizzare il gioco
